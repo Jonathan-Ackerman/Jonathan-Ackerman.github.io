@@ -4,3 +4,13 @@
 
 layout: home
 ---
+
+<h2>Projects</h2>
+<ul>
+{% assign sorted = site.projects | sort: 'dateRank' | reverse%}
+{% for project in sorted %}
+    <li>
+    <a href = "{{ project.url}}">{{ project.title }}</a>
+    </li>
+{% endfor %}
+</ul>

@@ -1,18 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Jonathan Ackerman, and I am currently a first-year student at Rutgers University–New Brunswick. I have been programming for the past several years, and I have experience with Python, JavaScript, HTML, CSS, PHP, SQL, and Java. Ever since I first learned to code, I have worked on independent projects to pursue my passion for computer science.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
